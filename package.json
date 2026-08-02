@@ -9,7 +9,11 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.19.0",
     "bootstrap": "^5.3.8",
+    "install": "^0.13.0",
+    "moment": "^2.30.1",
+    "npm": "^12.0.2",
     "react": "^19.2.8",
+    "react-animated-weather": "^4.0.1",
     "react-dom": "^19.2.8",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
@@ -40,6 +44,8 @@
   },
   "allowScripts": {
     "bootstrap@5.3.8": true,
-    "axios@1.19.0": true
+    "axios@1.19.0": true,
+    "react-animated-weather@4.0.1": true,
+    "moment@2.30.1": true
   }
 }
