@@ -33,6 +33,7 @@ li{
 
 .clearfix {
     display: flex;
+    margin-bottom: 10px;
 }
 
 img {
@@ -56,4 +57,12 @@ img {
     line-height: 1;
     top: -32px;
     margin-left: 0px;
+}
+
+.humidity {
+    color: #F65281;
+}
+
+.wind {
+    color: #F65281;
 }
