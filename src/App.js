@@ -12,7 +12,7 @@ export default function App() {
           <a
             href="https://www.shecodes.io/graduates/182572-khalea-mitchell"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Khalea Mitchell
           </a>{" "}
@@ -20,10 +20,10 @@ export default function App() {
           <a
             href="https://github.com/KhaleaM/weather-react-app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             GitHub
-          </a> and is hosted on <a href="https://app.netlify.com/projects/weather-application-project-r/overview" target="_blank" rel="noreferrer">Netlify</a>.
+          </a> and is hosted on <a href="https://app.netlify.com/projects/weather-application-project-r/overview" target="_blank" rel="noopener noreferrer">Netlify</a>.
         </footer>
       </div>
     </div>
