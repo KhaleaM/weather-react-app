@@ -23,8 +23,7 @@ export default function App() {
             rel="noreferrer"
           >
             GitHub
-          </a>
-          .
+          </a> and is hosted on <a href="https://app.netlify.com/projects/weather-application-project-r/overview" target="_blank" rel="noreferrer">Netlify</a>.
         </footer>
       </div>
     </div>
